@@ -1,6 +1,6 @@
 ## Problem Description:
 
-We aim to design a program that enables all users to create and solve 15x15 crossword puzzles. Initially, no puzzles exist. Users can create a new puzzle by entering the "make" command or solve an existing puzzle by entering the "solve" command.
+I aim to design a program that enables all users to create and solve 15x15 crossword puzzles. Initially, no puzzles exist. Users can create a new puzzle by entering the "make" command or solve an existing puzzle by entering the "solve" command.
 
 Please refer to the provided image for column and row numbering:
 ![jadval](https://github.com/proshir/Puzzle/assets/19504971/fb83f98f-35e2-482a-84b4-81aad755b76f)
